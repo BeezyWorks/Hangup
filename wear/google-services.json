@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "756967134444",
+    "firebase_url": "https://hangup-29f1e.firebaseio.com",
+    "project_id": "hangup-29f1e",
+    "storage_bucket": "hangup-29f1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756967134444:android:ce857bfb57e1bddb",
+        "android_client_info": {
+          "package_name": "com.mattaniahbeezy.hangup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756967134444-7k0kumhen4meutm78jj6l26fqa5uhn54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mattaniahbeezy.hangup",
+            "certificate_hash": "146d33c41a1a3c465a0d1df216e2a8422cb74ad7"
+          }
+        },
+        {
+          "client_id": "756967134444-co6haphqbd5ktnajj96hnsrh4btaarpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlGh_fUNYxU2hiUYy9tNNrOW3Q1OMRRH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756967134444-co6haphqbd5ktnajj96hnsrh4btaarpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
