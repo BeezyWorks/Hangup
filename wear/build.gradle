@@ -7,9 +7,11 @@ android {
         applicationId "com.mattaniahbeezy.hangup"
         minSdkVersion 23
         targetSdkVersion 25
-        versionCode 1
+        versionCode 4
         versionName "1.0"
+        multiDexEnabled true
     }
+
     buildTypes {
         release {
             minifyEnabled false

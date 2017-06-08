@@ -7,8 +7,7 @@
     android:clipChildren="false"
     tools:context="com.mattaniahbeezy.hangup.MainActivity"
     tools:deviceIds="wear"
-    tools:ignore="ContentDescription"
-    >
+    tools:ignore="ContentDescription">
 
     <ImageView
         android:id="@+id/contactImageView"
@@ -21,14 +20,18 @@
         android:layout_height="match_parent"
         android:background="#26000000" />
 
+
     <TextView
         android:id="@+id/phoneNumber"
         style="@style/TextAppearance.Wearable.Medium"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
+        android:ellipsize="end"
+        android:maxLines="3"
+        android:padding="48dp"
+        android:textAlignment="center"
         android:textColor="@color/white" />
-
 
     <ImageView
         android:layout_width="36dp"
